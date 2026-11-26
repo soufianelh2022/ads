@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "appID": "billcalendar",
+  "bundleID": "com.liyanagepvtltd.billcalendar",
+  "revision": 1,
+  "enabled": false,
+  "validUntil": null,
+  "minimumSecondsBetweenFullscreen": 180,
+  "maximumFullscreenPerDay": 4,
+  "placements": {
+    "history": {
+      "enabled": false,
+      "format": "banner",
+      "unitID": ""
+    }
+  }
+}
