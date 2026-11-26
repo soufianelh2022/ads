@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "appID": "shiftledger",
+  "bundleID": "com.liyanagepvtltd.shiftledger",
+  "revision": 1,
+  "enabled": false,
+  "validUntil": null,
+  "minimumSecondsBetweenFullscreen": 180,
+  "maximumFullscreenPerDay": 4,
+  "placements": {
+    "reports": {
+      "enabled": false,
+      "format": "banner",
+      "unitID": ""
+    }
+  }
+}

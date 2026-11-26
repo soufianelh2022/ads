@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "appID": "wordtrail",
+  "bundleID": "com.liyanagepvtltd.wordtrail",
+  "revision": 1,
+  "enabled": false,
+  "validUntil": null,
+  "minimumSecondsBetweenFullscreen": 180,
+  "maximumFullscreenPerDay": 4,
+  "placements": {
+    "library": {
+      "enabled": false,
+      "format": "banner",
+      "unitID": ""
+    },
+    "extraHint": {
+      "enabled": false,
+      "format": "rewarded",
+      "unitID": ""
+    },
+    "betweenRounds": {
+      "enabled": false,
+      "format": "interstitial",
+      "unitID": ""
+    }
+  }
+}
