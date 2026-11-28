@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "appID": "mediashelf",
+  "bundleID": "com.liyanagepvtltd.mediashelf",
+  "revision": 1,
+  "enabled": false,
+  "validUntil": null,
+  "minimumSecondsBetweenFullscreen": 600,
+  "maximumFullscreenPerDay": 3,
+  "placements": {
+    "toolsBanner": {
+      "enabled": false,
+      "format": "banner",
+      "unitID": ""
+    },
+    "libraryNative": {
+      "enabled": false,
+      "format": "native",
+      "unitID": ""
+    },
+    "playerExit": {
+      "enabled": false,
+      "format": "interstitial",
+      "unitID": ""
+    },
+    "returnToLibrary": {
+      "enabled": false,
+      "format": "appOpen",
+      "unitID": ""
+    },
+    "batchExport": {
+      "enabled": false,
+      "format": "rewarded",
+      "unitID": ""
+    }
+  }
+}
